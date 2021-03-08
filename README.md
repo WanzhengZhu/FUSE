@@ -12,7 +12,7 @@
 
 
 ## Introduction
-This project aims at __Multi-faceted Set Expansion__ and is published at ECML-PKDD 2020. Please find the paper [here](https://arxiv.org/pdf/1910.04345.pdf). 
+This project aims at __Multi-faceted Set Expansion__. Please find the paper [here](https://arxiv.org/pdf/1910.04345.pdf) (ECML-PKDD 2020). 
 
 ### What is set expansion? 
 Set expansion aims to expand a small set of seed entities into a complete set of relevant entities. 
