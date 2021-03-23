@@ -26,7 +26,7 @@ In cases where the seed set is ambiguous (or some seeds are ambiguous), our algo
 
 ### Model Overview 
 
-<p align="center"><img width="90%" src="img/Model.pdf"/></p>
+<p align="center"><img width="90%" src="img/Model.png"/></p>
 
 Our model consists of three modules: 
 1. __facet discovery__: it identifies all semantic facets of each seed entity by extracting and clustering its skip-grams;
