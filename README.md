@@ -66,7 +66,7 @@ Argument:
 @inproceedings{zhu2020fuse,
     title = {FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams},
     author = {Zhu, Wanzheng and Gong, Hongyu and Shen, Jiaming and Zhang, Chao and Shang, Jingbo and Bhat, Suma and Han, Jiawei},
-    booktitle = {Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD)},
+    booktitle = {The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
     year = {2020}
 }
 ```
